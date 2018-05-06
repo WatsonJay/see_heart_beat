@@ -1,0 +1,9 @@
+Max30102: VCC->3.3V
+	  GND->GND
+	  SCL->SCL
+  	  SDA->SDA
+	  INT->P10
+HC-05:RX->P01
+      TX->P00
+      VCC->5V
+      GND->GND
